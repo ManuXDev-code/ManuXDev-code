@@ -118,12 +118,10 @@
 
 <!-- ======================= PROJECTS ======================= -->
 
-<h2>🚀 Algunos de mis proyectos</h2>
+<h2>🚀 Proyectos destacados</h2>
 
 <p align="center">
-  <strong>
-    Una muestra de proyectos en los que he aplicado mis conocimientos y aprendizaje.
-  </strong>
+  Sistemas web y aplicaciones desarrolladas como parte de mi formación y experiencia práctica.
 </p>
 
 <br>
@@ -131,61 +129,99 @@
 <table align="center">
 <tr border="none">
 
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-<h3>📱 SMS Gateway</h3>
+<h3>📅 Sistema de Turnos Laborales</h3>
 
-<a href="https://youtu.be/rISmdhlhOPM" target="_blank">
-  <img 
-    width="100%" 
-    src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"
-    alt="SMS Gateway"
-  />
-</a>
-
-<br><br>
-
-<a href="https://youtu.be/rISmdhlhOPM" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>📲 Notificaciones Android</h3>
-
-<a href="https://youtu.be/fiUkA2OZQjs" target="_blank">
-  <img 
-    width="100%" 
-    src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"
-    alt="Notificaciones Android"
-  />
-</a>
-
-<br><br>
-
-<a href="https://youtu.be/fiUkA2OZQjs" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="25%" align="center">
-
-
-<h2 align="center">
-  💡 "Aprender, crear, compartir y seguir creciendo."
-</h2>
-
-<p align="center">
-  <strong>🚀 Siempre construyendo la próxima versión de mí mismo.</strong>
+<p>
+<strong>Laravel 13 · PHP · MySQL · Hope UI · FullCalendar</strong>
 </p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🐾 Refugio de Mascotas</h3>
+
+<p>
+<strong>Laravel 13 · PHP · MySQL · AdminLTE · Multi-idiomas</strong>
+</p>
+
+</td>
+
+</tr>
+
+<tr border="none">
+
+<td width="50%" align="center">
+
+<h3>💊 Sistema de Farmacia</h3>
+
+<p>
+<strong>PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>💰 Préstamos y Cobranzas — Benji V2</h3>
+
+<p>
+<strong>Laravel · PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+</tr>
+
+<tr border="none">
+
+<td width="50%" align="center">
+
+<h3>🛒 E-Commerce</h3>
+
+<p>
+<strong>Laravel · PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🚗 Gestión de Parqueo</h3>
+
+<p>
+<strong>Laravel · PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+</tr>
+
+<tr border="none">
+
+<td width="50%" align="center">
+
+<h3>🛍️ Sistema de Ventas</h3>
+
+<p>
+<strong>PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🦷 Sistema de Odontología</h3>
+
+<p>
+<strong>Laravel · PHP · MySQL · FullStack</strong>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
